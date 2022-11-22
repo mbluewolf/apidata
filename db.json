@@ -1,7 +1,7 @@
 {
   "users": [
-    { "id": 1, "name":"John" },
-    { "id": 2, "name":"Mike" },
-    { "id": 3, "name":"Gretchen" }
+    { "id": 1, "name":"Juan", lastName="Rodríguez Muñoz", "phone":"+31.5252-4433", "imageUrl":"https://blautek.com.mx/site/Shared/test/avatars/avatar-m-01.svg" },
+    { "id": 2, "name":"Hugo", lastName="Mora Lara", "phone":"+31.4283-1273", "imageUrl":"https://blautek.com.mx/site/Shared/test/avatars/avatar-m-02.svg"  },
+    { "id": 3, "name":"Marta", lastName="Alvarado Castillo", "phone":"+31.2975-0015", "imageUrl":"https://blautek.com.mx/site/Shared/test/avatars/avatar-f-01.svg"  }
   ]
 }
